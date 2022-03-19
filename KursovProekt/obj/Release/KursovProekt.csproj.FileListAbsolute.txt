@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\bin\Release\KursovProekt.exe.config
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\bin\Release\KursovProekt.exe
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\bin\Release\KursovProekt.pdb
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Form1.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Form2.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Form3.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Form4.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Form5.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.Properties.Resources.resources
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.exe
+C:\Users\PC\Desktop\KursovProekt\KursovProekt\obj\Release\KursovProekt.pdb
